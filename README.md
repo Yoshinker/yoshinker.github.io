@@ -1,1 +1,0 @@
-# yoshinker.github.io
