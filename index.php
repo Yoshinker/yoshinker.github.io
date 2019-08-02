@@ -7,6 +7,7 @@
 <body>
 
 	<h1>Hello world !</h1>
+	<h2>yay</h2>
 
 	<ul>
 		<li><a href="web1">Web1</a></li>
