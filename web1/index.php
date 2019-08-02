@@ -5,8 +5,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" type="text/css" href="css/default.css">
-	<link rel="stylesheet" type="text/css" href="/libs/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="/libs/css/fontawesome-all.css">
+	<link rel="stylesheet" type="text/css" href="../libs/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../libs/css/fontawesome-all.css">
 </head>
 <body>
 
@@ -27,8 +27,8 @@
 	</footer>
 
 	<!-- Bootstrap JS -->
-	<script src="/libs/js/jquery-3.4.1.min.js"></script>
-	<script src="/libs/js/bootstrap.bundle.min.js"></script>
+	<script src="../libs/js/jquery-3.4.1.min.js"></script>
+	<script src="../libs/js/bootstrap.bundle.min.js"></script>
 
 </body>
 </html>
