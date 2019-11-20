@@ -11,6 +11,7 @@
 
 	<ul>
 		<li><a href="web1">Web1</a></li>
+		<li><a href="img/raycast_vanilla">Raycast screenshot</a></li>
 	</ul>
 
 </body>
