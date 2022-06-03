@@ -1,0 +1,43 @@
+title: "Tom Perr"
+email: tom.perrillat-collomb@protonmail.com
+timezone: Europe/Paris
+baseurl: ""
+permalink: "/:title/"
+author: "Tom Perr"
+paginate: 30
+locale: fr_FR
+lang: fr_FR
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Authors
+authors:
+  tom:
+    name: Tom
+    display_name: Tom
+    avatar: 'assets/images/tom.png'
+    email: tom.perrillat-collomb@protonmail.com
+    web: https://tomperr.fr
+    twitter: https://twitter.com/nauwell_
+    description: "Informagicien la semaine, et encore. Ex dev freelance."
+
+# Social
+social:
+  twitter: https://twitter.com/nauwell_
+  github: https://github.com/tomperr
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
