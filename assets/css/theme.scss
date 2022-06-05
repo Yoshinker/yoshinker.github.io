@@ -134,10 +134,12 @@ small, .small {
 
 /* Pages
 ================================================== */
-.hero {
-    padding: 1rem 0rem;
-}
 
+@media only screen and (min-width: 1025px) {
+    .hero {
+        padding: 1rem 0rem;
+    }
+}
 @media only screen and (max-width: 1024px) {
     .page-header.big {
         font-size:3.5em;
@@ -157,6 +159,9 @@ small, .small {
         font-size:2.5em;
     }
 }
+
+
+
 .google-auto-placed {
     margin-bottom:2rem;
 } 
@@ -614,4 +619,10 @@ span.navigation:before {
 
 img.circle {
     border-radius: 100%;
+}
+
+@media (max-width:767px) {
+	a.fill-width {
+        width: 100%;
+    }
 }
