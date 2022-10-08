@@ -12,7 +12,7 @@ Mais bon, on ne s'improvise pas rédacteur, et encore moins journaliste...
 
 Alors je le fais.
 
-C'est fou internet, on peut parler de tout et sans citer ses sources ! _Ok, oubliez le dernier point, même si c'est parfois vrai_.
+C'est fou internet, on peut parler de tout ~~et sans citer ses sources~~ !
 
 Les entretiens d'embauche ne me manquent pas assez pour que je vous retrace toute ma vie, alors je laisse mes futures créations parler pour moi (je parle d'articles) (qui seront sur ce site) (C'EST LES MIENS).
 
