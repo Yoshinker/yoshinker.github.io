@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Remake, reboot, remaster et réchauffé"
+author: tom
+categories: [ "Jeu vidéo" ]
+image: assets/images/2022-10-08-remake-reboot-remaster-rechauffe/thumbnail.png
+---
+
+Il ne fait pas bon vieillir, pour vous comme pour nos jeux. Les dernières décennies ont vu passer nombre de disquettes, cartouches, _disques compactes_, qui aujourd’hui prennent la poussière chez pépé-mémé. Bien loin de moi l’envie de vous faire culpabiliser, laissez ces antiquités où elles sont. Gardez donc les innocents souvenirs qu’il vous reste de votre enfance. En vous replongeant dedans, vous pourriez les anéantir tous, _et dans les ténèbres les lier_. 
+
+Mais je vous comprends : moi aussi, j’aimerais bien rejouer à **Crash Bash** (à remplacer par n’importe quel jeu de votre enfance) comme je m’en souviens. Si la technique d’antan a pris des rides, les concepts peuvent y avoir échappé. Une fois n’est pas coutume, le jeu vidéo a (encore) pioché dans une banque d’idées appelée « Cinématographie », en nous ressortant d’anciennes œuvres dans des versions parfois améliorées. **Remake, reboot, remaster, réchauffé**… Qui sont-ils ? Que font-ils ? Sont-ils légitimes ? Pour vous et en exclusivité (presque), le CQFD a mené l’enquête.
+
+_Article initialement paru le 8 novembre 2021, [sur le site du CQFD de l'université Lyon 1](https://cqfd.univ-lyon1.fr/2021/11/08/remake-reboot-remaster-et-rechauffe/)_
+
+## Présentation des protagonistes
+
+Puisque les anglicismes m’insupportent et qu’ils sont utilisés pour tout et leur contraire, clarifions les choses du plus simple au plus… flou. Un **portage** (_port_ en anglais, et _réchauffé_ chez moi) est un jeu qui ressort sur un nouveau support (ordinateur, console, smartphone), rien de plus. Pour permettre cette _prouesse technique_, l’**émulation** est parfois de sortie : on simule le fonctionnement d’une ancienne machine pour faire fonctionner le jeu original presque comme à l’époque. Pas très subtile et non exempté de bug, d’autres studios préfèrent alors repartir du produit de base et de retravailler sur sa compatibilité. De la même manière, un **remaster** est une version améliorée d’un jeu après avoir appliqué quelques modifications sur le projet original. L’objectif est de permettre de vivre l’expérience telle qu’elle pouvait être vécue au moment de sa sortie. On dit bien souvent qu’un remaster est réussi s’il peut se substituer à l’œuvre originale. Il s’agit principalement de le remettre à jour : contrôle de la caméra, gestion des sauvegardes automatiques, textures SD vers HD, résolution d’écran 4:3 vers 16:9…  Toutes ces versions « HD Collection », entre autres, en sont le fruit. Un **remake**, puisque beaucoup plus libre, va bien plus loin qu’une mise à niveau technique. En repartant des concepts (niveau assez abstrait), la totalité du jeu est recréé pour revoir l’œuvre sous un angle différent. _Resident Evil_ et _Final Fantasy 7_ Remake montrent qu’il est possible de prendre quelques libertés tout en restant cohérent dans leur univers. Le remake peut facilement être confondu avec le **reboot**, qui se veut être comme un virage dans une saga, mais sans rebattre les sentiers d’un titre déjà connu. _God Of War_ et _Tomb Raider_ sont les exemples marquants de la dernière décennie. 
+
+![Comparaison des sprites des différentes versions de Final Fantasy 5 et 6](/assets/images/2022-10-08-remake-reboot-remaster-rechauffe/ff.png)
+*Le respect du patrimoine. [Source image: [H]ardForum](https://hardforum.com/threads/final-fantasy-pixel-remaster.2011358/)*
+
+Si tout n’est pas clair pour vous, c’est que le marketing fonctionne et que je fais mal mon job. Ces termes sont avant tout destinés à promouvoir une production en lui collant une étiquette parfois un peu erronée, parfois volontairement : on prend un jeu du précédent millénaire, on le fait tourner sur un _émulateur_, on applique un filtre pour lisser les pixels sur toute l’image, et on le ressort sous l’appellation remaster. Un peu limite, messieurs de chez _Square Enix_ (_Dragon Quest_, _Final Fantasy_). 
+
+En oubliant les portages et les reboots, qui sont respectivement des jeux entièrement réchauffés et entièrement nouveaux, on peut s’interroger sur la légitimité des remakes et des remasters qui allient patrimoine et nouveauté, tradition et modernité. 
+
+## Ici, le client est roi
+
+S’il y a un débat sur l’intérêt de ces productions, c’est que tous les joueurs ne les voient pas du même œil. Pour certains, ces ressortis permettent de découvrir un titre qu’ils n’ont pas eu l’opportunité d’essayer, pour des raisons financières (on parlait en centaines de francs pendant le précédent millénaire), de disponibilités ou toutes autres. Ressortir un jeu sur un support moderne peut permettre, aux nostalgiques comme aux nouveaux venus, d’y rejouer sans fouiller le grenier à la recherche d’une console, d’une cartouche, et d’une manette en état de marche. D’autant plus que les supports actuels offrent davantage de possibilités sur les façons de jouer, qu’il s’agisse d’un support fixe ou portable. Notons aussi le cloud gaming, permettant de jouer à n’importe quel titre à partir d’un appareil numérique relié à Internet, qui gagne du terrain grâce aux géants _Nvidia_, _Microsoft_, _Playstation_. Même si le plaisir d’antan a son charme (d’où une certaine mode du vintage), il a aussi ses limites. Nombre d’images par seconde limité (là d’où vient l’impression d’un jeu saccadé, qui n’est pas fluide), résolution d’écran d’un ancien temps agrémentée de textures grossières sur votre bel écran 4K OLED… pour sûr, l’aspect graphique en a pris un coup. Tout n’est pas à jeter dans nos anciennes cartouches, loin de là, mais rajouter un peu de confort ne fait pas de mal, pour les nouveaux arrivants comme pour les vieux briscards.
+
+![Comparaison entre Crash Bandicoot (Playstation) et son remake](/assets/images/2022-10-08-remake-reboot-remaster-rechauffe/crash.png)
+*Il aura fallu 20 ans à Crash Bandicoot pour attacher son short avec une ficelle. [Source image: IGN](https://pt.ign.com/crash-bandicoot-nsane-trilogy/45132/video/crash-bandicoot-comparacao-grafica-ps1-vs-ps4-pro)*
+
+Mais que dire à ceux qui se plaignent d’avoir, à la place d’un nouveau jeu original, un plat réchauffé quoiqu’un peu réassaisonné ? Si les remasters peuvent en effet produire ce sentiment, ce n’est que peu le cas pour les remakes. Revisiter un jeu, c’est lui donner la chance de se re-dévoiler sous de nouvelles coutures, sans alourdir la proposition de base. Si le remake de _Final Fantasy 7_ est découpé en 2 parties (dont seule la première est disponible à ce jour), c’est certes pour des raisons financières, mais également pour permettre de développer certains points qui le méritaient. Ainsi, le joueur est libre de découvrir certains environnements (les bidonvilles notamment) ayant leurs propres personnages et intrigues, chose qui n’était pas possible dans le chef d’œuvre de 1997. 
+
+## Par amour des sous
+
+Au-delà de satisfaire leurs clients, les éditeurs cherchent avant tout à se remplir les poches, comme il est coutume dans le grand monde du capitalisme. D’un point de vue marketing et financier, les remakes et remasters se vendent moins qu’une nouvelle production, tant en quantité qu’en valeur, ce qui s’explique par un engouement moindre. Ils représentent toutefois une part significative dans les ventes, représentant 11% du total dépensé dans les jeux physiques (vendus dans une vraie boîte) sur PS4 et Xbox One. En connectant quelques neurones, les studios ont compris que pour rester rentable, il faut réduire les coûts. Et ils le font. Les remasters sont évidemment le meilleur exemple, puisque les développeurs repartent d’un produit fini auquel on applique un peu de maquillage, de façon plus ou moins prononcée. Réutiliser les concepts, comme c’est le cas pour les remakes, reste une économie non négligeable : l’élaboration du _game design_, du _level design_ ou encore du _game feel_ demande généralement de longues phases d’expérimentation et d’ajustement, qui se traduisent forcément par des coûts.
+
+Capitaliser sur un titre ou une saga ayant vécu son heure de gloire permet d’assurer un certain engouement engendré par sa ressortie, qu’il faudra concrétiser en y insufflant de la valeur ajoutée (toutes ces améliorations et modifications dont nous parlions précédemment). _Bluepoint_, studio indépendant américain, est reconnu pour la qualité de ses remakes : _Demon’s Souls_ et _Shadow of the Colossus_ ont vécu une seconde vie grâce à ses équipes. Les éditeurs, qui possèdent les licences et les droits, n’hésitent donc pas à externaliser le développement et à donner carte blanche (ou grise très claire) à leurs sous-traitants.
+
+## Observations et mots dans le carnet
+
+Dans la presse spécialisée (pas chez nous, mais chez nos nombreux confrères) comme dans les sphères d’influences, toutes les ressorties ne sont pas accueillies de la même manière. Disons simplement que certains studios se creusent moins les méninges que d’autres quand il nous resservent la même soupe. Quand il faut jouer au jeu des 7 différences pour distinguer l’original de la copie retravaillée, comme dans _The Last Of Us_, on nage en plein dedans. Forcément, un remaster qui déboule seulement un an après la première sortie du jeu, ça n’augure rien de bon (même avec un passage sur console de nouvelle génération).
+
+![Comparaison entre les versions PS3 et PS4 de The Last Of Us](/assets/images/2022-10-08-remake-reboot-remaster-rechauffe/tlou.png)
+*Merci pour la lumière, PS4. [Source image: GameSpot](https://youtu.be/hPF9rU343aU)*
+
+Quand les limitations techniques étaient nombreuses, comme c’était le cas à l’arrivée de la 3D sur console, certains titres essayaient de s’en servir plutôt que de les subir. L’exemple le plus marquant est celui des temps de chargement de Resident Evil (Playstation), où l’animation d’une porte s’ouvrant devant nous nous empêchait de vivre cette pause comme un véritable moment de répit, tant l’atmosphère dégagée pouvait s’avérer pesante.
+
+Dans une moindre mesure, _Silent Hill 2_ utilisait le brouillard pour ne pas avoir à afficher trop d’éléments à l’écran, mais aussi pour ajouter un côté fantomatique à l’univers. Quand le remaster de celui-ci, fort d’une sortie sur une machine plus puissante, ose triturer cet angoissant brouillard pour le transformer en un épais mur grisâtre, on comprend qu’on y a perdu au change.
+
+![Comparaison entre les versions PS2 et PS3 de Silent Hill 2](/assets/images/2022-10-08-remake-reboot-remaster-rechauffe/silent_hill2.jpeg)
+*Une plus grande résolution pour observer l’horreur en plein écran. [Source image: Gamecult](https://gamecult.umwblogs.org/2015/01/30/silent-hill-remastered-or-how-to-revive-classics-just-to-kill-them/)*
+
+Au-delà de l’aspect graphique, quand une mécanique de jeu est modifiée mais que le reste ne suit pas, il y a faute. Ce fut par exemple le cas du jeu d’infiltration _Metal Gear Solid : Twin Snake (PSP)_ : en empruntant le gameplay (ce que peut faire le joueur) du second opus de la série, le jeu souffre d’incohérences dans le parcours des niveaux. Adieu la discrétion, il est désormais possible de se débarrasser de tous vos ennemis à distance en passant sur le _mode visé_ de votre silencieux, puis de continuer votre route sans le moindre soupçon d’infiltration. Là, c’est carton rouge. 
+
+Pour réussir un remake ou un remaster, il faut d’abord écouter les joueurs (« savoir écouter le marché » pour ces-messieurs les _marketeux_). Il n’est d’aucune utilité de ressortir un titre qui n’a jamais fait parler de lui en espérant lui insuffler une _hype_ : il ne recevra ni l’engouement d’une production originale, ni celle d’une communauté de fans, qui est dans ce cas trop maigre. Un jeu faisant partie d’une saga peut s’inspirer de ces descendants s’ils ont marqués par leurs nouveautés. Oubliez _Metal Gear Solid : Twin Snake_ qui fait ici office de mauvais élève. La série Resident Evil a su se réinventer par de solides remakes reprenant le rythme et la liberté de _Resident Evil 4_, sans doute l’épisode le plus apprécié. Une vraie bouffée d’air frais pour une série qui était en pleine chute libre.
+
+## Au final, j’achète ou je boycotte ?
+
+Comme dans toute copie de philosophie d’un niveau plus que moyen, la réponse sera « ça dépend ». L’effort mit par les équipes de développement pour ressusciter un titre, le réinventer ou le mettre à niveau graphiquement est une variable difficilement quantifiable, et qui n’est pas interprétée de la même manière selon si vous êtes un néophyte ou un joueur déjà familier avec le titre original. Que penser de ceux qui achèteront _plein pot_ une collection de jeux rétros, sans retouche, dans le seul objectif d’y jouer de manière légale ? S’il est facile de critiquer ces productions pour leur rapide et quasi-certaine rentabilité, il ne faut pas oublier à qui elles s’adressent. Un « je ne suis pas la cible » est certainement plus adapté qu’un « tout le monde s’en fiche ».
+
+### Sources
+
+- [Explaining remake, remaster, reboot, and port video games](https://www.hxchector.com/explaining-remake-remaster-reboot-and-port-video-games/)
+- [Video game remastering is a win-win for publishers](https://www.gamesindustry.biz/articles/2017-08-07-video-game-remastering-is-a-win-win-for-publishers)
+- [Remasters, Remakes : Que changer pour rester pertinent ? Game Next Door](https://youtu.be/z7aCAmg5fRE )
+- [Remakes and Remasters – videogamedunkey](https://youtu.be/ziUMJB3id8I)
