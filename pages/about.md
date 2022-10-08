@@ -6,7 +6,7 @@ permalink: "/a-propos/"
 
 Par où commencer ? Tout d'abord, il convient de rappeler que je suis comme vous : je suis né jeune, j'ai dormi presque toutes les nuits, changé de caleçon presque tous les jours, et j'écoute ce qu'on me dit quand ça ne m'embête pas trop (désolé maman). En bref, un mec banal.
 
-Mais ce mec banal, en plus de parler de lui à la troisième personne une phrase du deux, il a des trucs à dire. C'est sympa de lire ce que disent les grands sur du papier glacé, mais hé, ho, moi aussi je veux faire ça !
+Mais ce mec banal, en plus de parler de lui à la troisième personne une phrase sur deux, il a des trucs à dire. C'est sympa de lire ce que disent les grands sur du papier glacé, mais hé, ho, moi aussi je veux faire ça !
 
 Mais bon, on ne s'improvise pas rédacteur, et encore moins journaliste...
 
